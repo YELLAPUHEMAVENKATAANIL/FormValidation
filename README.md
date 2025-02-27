@@ -28,10 +28,10 @@ This is a basic **client-side form validation** project using **HTML, CSS, and J
    ```sh
    git clone https://github.com/your-username/form-validation.git
    cd form-validation
-2.Open index.html in a browser
+2.Open index.html in a browser\n
   Works offline, no need for a backend!
 
-🎯 Validation Rules
--> Name: Cannot be empty
--> Email: Must be in a valid format (e.g., example@gmail.com)
--> Password: Must be at least 6 characters long
+## 🎯 Validation Rules
+✅ Name: Cannot be empty
+✅ Email: Must be in a valid format (e.g., example@gmail.com)
+✅ Password: Must be at least 6 characters long
