@@ -11,8 +11,13 @@ This is a basic **client-side form validation** project using **HTML, CSS, and J
 ---
 
 ## 📂 Folder Structure
+- **/form-validation-project**
+  - 📁 **/public**
+    - 📄 `style.css` (CSS File)
+    - 📄 `script.js` (JavaScript File)
+  - 📄 `index.html` (Main HTML File)
+  - 📄 `README.md` (Project Documentation)
 
-/form-validation-project │── /public │ │── style.css (CSS File) │ │── script.js (JavaScript File) │── index.html (Main HTML File) 
 
 ---
 
